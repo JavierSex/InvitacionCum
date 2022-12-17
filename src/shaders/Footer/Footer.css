@@ -1,0 +1,95 @@
+
+footer{
+    width: 100%;
+    margin-top: 10em;
+    padding: 50px 0px;
+    background-size: cover;    
+}
+
+.fot1{
+    background-image:url(https://firebasestorage.googleapis.com/v0/b/inviteishon-b3f12.appspot.com/o/icono%2FFotoTodos.jpg?alt=media&token=4c02efb8-9ef2-4c31-928e-5ab46b1bdfdd) ;
+    background-size: cover;
+}
+
+.fot2{
+    background-image:url(https://firebasestorage.googleapis.com/v0/b/inviteishon-b3f12.appspot.com/o/icono%2FFotoTodos3.jpeg?alt=media&token=52056e08-023a-4dec-9884-34c38a8f2c88) ;
+    background-size: contain;
+}
+
+.fot3{
+    background-image:url(https://firebasestorage.googleapis.com/v0/b/inviteishon-b3f12.appspot.com/o/icono%2FFotoTodos4.jpg?alt=media&token=0614f735-9ddf-402f-ab82-7d79ebc75c8b) ;
+    background-size: cover;
+}
+
+.fot4{
+    background-image:url(https://firebasestorage.googleapis.com/v0/b/inviteishon-b3f12.appspot.com/o/icono%2FFotoTodos5.jpg?alt=media&token=9b049918-6322-4b47-9a75-4783425ccef7) ;
+    background-size: cover;
+}
+
+.fot5{
+    background-image:url(https://firebasestorage.googleapis.com/v0/b/inviteishon-b3f12.appspot.com/o/icono%2FFotoTodos2.jpeg?alt=media&token=abab7b71-88f3-4af6-8c77-7fd7ba2bd906) ;
+    background-size: cover;
+}
+
+.container__footer{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    max-width: 1200px;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.box__footer{
+    display: flex;
+    flex-direction: column;
+    padding: 40px;
+}
+
+.box__footer .logo img{
+    width: 180px;
+}
+
+
+
+.box__footer h2{
+    margin-bottom: 30px;
+    color: cornflowerblue;
+    font-weight: 700;
+    font-size: 3em;
+}
+
+.box__footer a{
+    margin-top: 10px;
+    color: green;
+    font-weight: 600;
+    font-size: 2em;
+}
+
+.box__footer a:hover{
+    opacity: 0.8;
+}
+
+.box__footer a .fab{
+    font-size: 20px;
+}
+
+.box__copyright{
+    max-width: 1200px;
+    margin: auto;
+    text-align: center;
+    padding: 0px 40px;
+}
+
+.box__copyright p{
+    margin-top: 30px;
+    color: cornflowerblue;
+    font-size: 2em;
+}
+
+.box__copyright hr{
+    border: none;
+    height: 3px;
+    background-color: cornflowerblue;
+    font-size: 2em;
+}

@@ -1,0 +1,35 @@
+.Timptulom{
+    margin-top: 20px;
+    text-align: center;
+}
+
+.image{
+    height: 600px;
+}
+
+body{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/inviteishon-b3f12.appspot.com/o/vichFondo.jpg?alt=media&token=77b6e912-7ddd-45b0-abff-642c2ffd0dac");
+    background-size: cover;
+
+}
+
+.fondo-letter{
+    background-color: aliceblue;
+    height: max-content;
+    border-radius: 1%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.fondo-letter-E{
+    background-color: darkseagreen;
+    height: max-content;
+    border-radius: 1%;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+.card{
+    width: 650px;
+    padding:5px;    
+}
